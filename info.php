@@ -5,4 +5,6 @@
  * Date: 2015/12/24
  * Time: 19:33
  */
-  echo "¹ö¹ö¹ö¹ö¹ö";
+ function test(){
+   echo "²âÊÔ";
+ }
