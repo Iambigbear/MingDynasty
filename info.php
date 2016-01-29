@@ -7,4 +7,5 @@
  */
  function test(){
    echo "≤‚ ‘";
+   echo "hhh";
  }
